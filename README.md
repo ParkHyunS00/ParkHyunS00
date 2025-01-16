@@ -1,36 +1,31 @@
-<h2 align="center">🔨 Tech Stack 🔨</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
+<h2> Hi, I'm Hyunsoo Park 👋 </h2>
+To be growing backend developer 🐣
+<br>
+
+<h3> 📧 Contact </h3>
+<div>
+  <a href="mailto:parkhyuns00@naver.com" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/parkhyuns00%40naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">
+  </a>
+  <a href="mailto:phs006206@gmail.com" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/phs006206%40gmail.com-%23EA4335?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</div>
+<br>
+
+<h3>🔨 Skills</h2>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 </p>
 <br>
 <br>
 
-<div align=center>
+<div>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParkHyunS00&theme=vue)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=phs0345)](https://solved.ac/phs0345)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkHyunS00&layout=compact&theme=default)](https://github.com/metleeha)
+<img src="http://mazandi.herokuapp.com/api?handle=phs0345&theme=warm"/>
 
 </div>
-
-<!--
-**ParkHyunS00/ParkHyunS00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
